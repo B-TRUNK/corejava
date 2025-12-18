@@ -10,7 +10,7 @@ public class Hello {
         int x = 10;
 
         System.out.println("Yes, I'm Javon");
-        System.out.println("X = " + 10);
+        System.out.println("X = " + x);
 
     }
 
