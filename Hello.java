@@ -8,9 +8,11 @@ public class Hello {
     public static void main(String[] args){
 
         int x = 10;
+        String name = "JonaDav";
 
         System.out.println("Yes, I'm Javon");
         System.out.println("X = " + x);
+        System.out.println("Name: " + name);
 
     }
 
